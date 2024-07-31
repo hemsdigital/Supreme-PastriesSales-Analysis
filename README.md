@@ -11,6 +11,7 @@ Supreme Pastries Raw File.pbix. The primary  Dataset of this Project contained d
 The dataset contains sales data spanning from December 2013 to January 2015. The dataset is structured with multiple columns capturing various dimensions and measures necessary for comprehensive business intelligence and analysis in Power BI. Below is a detailed description of each column in the dataset: Year:  Indicates the year when the sales transaction occurred. The data spans from 2013 to 2015. Month:  Indicates the month of the sales transaction and this column captures the name of the month (e.g., January, February). Product: 
 Represents the type of product sold. Products include Ice Cream, Popsicles, Frozen Yogurt, and Tasty Treats. Salespersons: this shows The name of the salesperson responsible for the transaction. Salespersons in the dataset include Bishop, Lee, Parker, Pullen, and Watson. Region Source: Indicates the geographical region where the sales occurred. The regions include North, South, Central, and West. Sales Amount:  The total sales amount for the transaction is in USD. This column captures the revenue generated from each sale. Units Sold: This indicate
 the number of units sold in each transaction. Order Number: A unique identifier for each sales transaction.
+### Problem Statement:
 
 
 
