@@ -51,20 +51,7 @@ the number of units sold in each transaction. Order Number: A unique identifier 
 -  ![]()
   
 ### Visualization/ Dashboard
- Total Revenue by Year:
-A line chart to show the total Revenue for each month.
- The 'Date' column for the X-axis and 'Sales' for the Y-axis.
-Total Revenue  by Product:
-A bar Column chart  to compare sales across different products.
-Use 'Product' on the X-axis and 'Sales' on the Y-axis.
-
-Total Revenue  by Region:
-A Column chart  to show sales by region (Central, West, North, South).
- 'Region' on the X-axis and 'Sales' on the Y-axis. 
-Total Revenue  by Salesperson:
- A  Column chart  to show the distribution of Total Revenue by salesperson.
-'Salesperson' on X-axisand 'Sales' on Y-axis,
-
+ 
  
   
   
