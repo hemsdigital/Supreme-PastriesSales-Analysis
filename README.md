@@ -13,12 +13,12 @@ Represents the type of product sold. Products include Ice Cream, Popsicles, Froz
 the number of units sold in each transaction. Order Number: A unique identifier for each sales transaction.
 
 ### Skills/Concept:
-## Microsoft Excel Skills:
+#### Microsoft Excel Skills:
   -Data Creation and importing:
- -  Data sorting and filtering.
- -  Remove Duplicate
- -  Text Function
-## Power BI skills:
+ - Data sorting and filtering.
+ - Remove Duplicate
+ - Text Function
+#### Power BI skills:
 -  import Data
 -  Data Transformation
 -  Column profile
