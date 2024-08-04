@@ -48,9 +48,11 @@ the number of units sold in each transaction. Order Number: A unique identifier 
 -  This showed the number of unit sold.
 8. Rows: OrderNumber
 -  This analysis showed the number of times the orders were made.
-   ![](Data set.PNG)
+ ![](Data set.PNG)
   
-### Visualization/ Dashboard:
+### Visualization/ Dashboard: 
+![](Dash_board.PNG)
+
  
  
   
