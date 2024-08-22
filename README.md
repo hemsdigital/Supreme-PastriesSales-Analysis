@@ -55,6 +55,39 @@ the number of units sold in each transaction. Order Number: A unique identifier 
 ![](Dash_board.PNG)
 
 ### Results and Findings:
+-The dataset of Supreme-Pastries showed a great trend. Sales figures from the West region (primarily by Bishop) are dominant.
+ Multiple sales entries by Bishop, particularly for "Ice Cream" and "Frozen Yogurt," with total sales figures like $2,395.50, 
+ $11,761.50, and $8,943.00.
+ Other regions such as Central and North (sales by Parker) also show significant sales, e.g., $14,596.50 for "Frozen 
+ Yogurt" and $9,731.50 for "Tasty Treats". Lee also shows a strong sales in the Central region for "Tasty Treats." 
+- The data shows the sales performance by product type. The Ice creame made the highest sales, followed by frozen yourght. The least 
+ sales were made by Popsicles.
+- From the dataset, the salesperson that generated the highest sales is parker, followed by Lee then Watson.
+-  From the dataset, the reginal sales performance is high in the the central, follwed by North, west then south made least sales.
+-  From  sales overtime, Apil appears to be a stronger month overall, with multiple high-value sales entries.
+   February follwed with strong figures too, especially from Central region.
+-  The total units of products sold is seven hundred and seventy four thousand.
+  
+ ## Summary and Trend Analysis:
+Top Performer: Parker is the leading salesperson in terms of total sales.
+Product Performance: "Ice Cream" and "Frozen Yogurt" are the most sold items, with "Tasty Treats" also showing strong sales.
+Regional Analysis: The Central and North regions are the most profitable, with the Central region showing significant sales.
+Trend: April has higher sales volume compared to February, but both months show strong performance in the regions.
+
+## Recommendations
+Focus on High-Performing Regions and Products: Suggest allocating more resources to the high-performing regions and products to maximize profits.
+Salesperson Training: If certain salespersons are underperforming, recommend further training or reassessment of their strategies.
+Inventory Management: If certain products are not selling well, consider optimizing inventory to reduce costs.
+Monitor monthly sales trends to identify peak sales periods.
+Analyze the performance of different product categories and regions to allocate resources effectively.
+Identify top-performing salespersons and regions to recognize and replicate successful strategies.
+Customer Insights:
+Use the data to identify high-value customers and tailor marketing efforts accordingly.
+Analyze return rates and customer feedback to improve product offerings.
+Utilize historical sales data to forecast future sales and set realistic targets.
+Implement predictive analytics to anticipate market trends and adjust strategies proactively for
+Continuous Improvement.
+
 
  
  
