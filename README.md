@@ -74,7 +74,7 @@ Product Performance: "Ice Cream" and "Frozen Yogurt" are the most sold items, wi
 Regional Analysis: The Central and North regions are the most profitable, with the Central region showing significant sales.
 Trend: April has higher sales volume compared to February, but both months show strong performance in the regions.
 
-## Recommendations
+## Recommendations:
 Focus on High-Performing Regions and Products: Suggest allocating more resources to the high-performing regions and products to maximize profits.
 Salesperson Training: If certain salespersons are underperforming, recommend further training or reassessment of their strategies.
 Inventory Management: If certain products are not selling well, consider optimizing inventory to reduce costs.
